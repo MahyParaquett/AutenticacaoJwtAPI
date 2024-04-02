@@ -135,3 +135,7 @@ C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\tr
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\obj\Debug\net8.0\AutenticacaoJwtAPI.pdb
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\obj\Debug\net8.0\AutenticacaoJwtAPI.genruntimeconfig.cache
 C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\obj\Debug\net8.0\ref\AutenticacaoJwtAPI.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\bin\Debug\net8.0\Scrutor.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Api.Net\AutenticacaoJwtAPI\AutenticacaoJwtAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
